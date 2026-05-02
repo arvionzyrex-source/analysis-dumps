@@ -1,0 +1,4 @@
+run1 stable  
+run2 stable  
+run3 deviation  
+run4 stable  
